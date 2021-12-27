@@ -1,7 +1,7 @@
 {
   "domain": "ikea",
   "name": "IKEA Availability Sensor",
-  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_sensor/",
+  "documentation": "https://github.com/e1miran/hass/tree/master/custom_components/sensor/",
   "dependencies": [],
   "codeowners": [],
   "requirements": [],
